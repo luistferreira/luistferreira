@@ -34,6 +34,4 @@ Despite being a mobile developer, I love to dive into other tecnologies not rela
   
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luistferreira&show_icons=true&theme=dracula)
-
-![Snake animation](https://github.com/luistferreira/luistferreira/blob/output/github-contribution-grid-snake.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luistferreira&include_all_commits=true&count_private=true&show_icons=true&theme=dracula)
