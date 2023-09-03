@@ -1,14 +1,6 @@
 ### Hey 👋, I'm Luis Dibrowa Ferreira
 
-<a href="https://instagram.com/luis_henrique_ferreira13?igshid=NGVhN2U2NjQ0Yg==">
-  <img align="left" alt="Luis's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://twitter.com/ldibrowa">
-  <img align="left" alt="Luis's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<br />
-<br />
+##
 
 Hi there, I'm **Luis Dibrowa Ferreira**, a brazilian mobile developer passionate about coding 💘.
 
