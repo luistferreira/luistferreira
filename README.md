@@ -9,7 +9,7 @@ Despite being a mobile developer, I love to dive into other tecnologies not rela
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I have 8 years of experience in iOS development; 
+- 👨🏽‍💻 I have 10 years of experience in iOS development; 
 - ⚽️ Sports are a topic that I never get bored about;
 - 💬 Ask me about anything, I am happy to help;
 
