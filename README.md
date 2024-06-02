@@ -15,6 +15,11 @@ Despite being a mobile developer, I love to dive into other tecnologies not rela
 
 
 **Languages and Tools:**  
+### Treak Stats
+ 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=luistferreira&theme=algolia" alt="oribendet"  />
+
+</div>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg"></code>
