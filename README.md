@@ -36,7 +36,6 @@ https://www.linkedin.com/in/luis-tavares-948376279/
   <a href="https://wa.me/5511947006990?text=github" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   <a href = "mailto:luisdibrowa@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luis-tavares-948376279" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luistferreira&include_all_commits=true&count_private=true&show_icons=true&theme=dracula)
