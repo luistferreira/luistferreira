@@ -29,7 +29,7 @@ Despite being a mobile developer, I love to dive into other tecnologies not rela
 <code><img height="20" src="https://github.com/luistferreira/luistferreira/assets/43574128/aaa1e391-eb87-4312-9bd6-daeb9608b4ba"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></code>
 
-https://www.linkedin.com/in/luis-tavares-948376279/
+https://www.linkedin.com/in/luis-ferreira-b17aa9301/
 
 <div> 
   <a href="https://instagram.com/luis_henrique_ferreira13?igshid=NGVhN2U2NjQ0Yg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
